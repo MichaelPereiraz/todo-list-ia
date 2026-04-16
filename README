@@ -3,3 +3,12 @@
 A lógica consiste em capturar o texto digitado pelo usuário e o nível de prioridade selecionado. 
 Ao clicar no botão, essas informações são encapsuladas em um novo elemento de lista (<li>) e adicionadas ao corpo da página.
 Cada tarefa possui um botão de alternância de status, permitindo que o usuário visualize o que já foi concluído através de um efeito visual (tachado)."
+
+
+2. Apoio da IA:
+
+"A IA auxiliou na estruturação inicial do HTML e na criação do design responsivo via CSS. Também sugeriu a lógica de 'toggle' para marcar tarefas como feitas de forma simplificada."
+
+3. Resposta Reflexiva (Obrigatória):
+
+"A IA funcionou como um parceiro de programação (Pair Programming), ajudando a resolver erros de sintaxe e sugerindo melhorias no layout. As decisões sobre quais funcionalidades incluir e a organização final do projeto foram tomadas por mim, garantindo que o sistema atendesse aos requisitos do desafio."
