@@ -1,0 +1,5 @@
+1. Planejamento 
+"O sistema foi planejado para ser uma aplicação web simples e intuitiva. 
+A lógica consiste em capturar o texto digitado pelo usuário e o nível de prioridade selecionado. 
+Ao clicar no botão, essas informações são encapsuladas em um novo elemento de lista (<li>) e adicionadas ao corpo da página.
+Cada tarefa possui um botão de alternância de status, permitindo que o usuário visualize o que já foi concluído através de um efeito visual (tachado)."
